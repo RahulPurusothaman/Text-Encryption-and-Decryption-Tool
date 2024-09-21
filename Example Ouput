@@ -1,0 +1,12 @@
+$ python message_encryption.py
+Enter the length of the KEY: 32
+
+Your KEY is: D3xFg7zKJ9Yz1A0RVs5xD8LpYmNj2B
+
+Enter the message to Encrypt: Hello World!
+
+Message is Encrypted to: b'gAAAAABh7vHt_HF5RuGa5fJmBu...'
+
+Enter the Key to Decrypt: D3xFg7zKJ9Yz1A0RVs5xD8LpYmNj2B
+
+Decrypted message: Hello World!
